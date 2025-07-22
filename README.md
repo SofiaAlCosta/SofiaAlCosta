@@ -1,11 +1,11 @@
-# Hi 👋, I'm Sofia Al Costa and I'm a Computer Science and Engineering Student
+# Hi 👋, My name is Sofia and I'm a Computer Science and Engineering Bachelor Student
 
 ---
 
 - 🌱 I’m currently learning **Web Development, Python, C, Java, MySQL**
 - 💼 Working on projects at **VisabeiraProjects**
-- 📧 How to reach me: *(add your email here)*
-- 💼 Know about my experiences: [LinkedIn](#) *(link coming soon)*
+- 📧 How to reach me: *sofiacosta2004@hotmail.com*
+- 💼 Know about my experiences: [[LinkedIn](#) *(link coming soon)*](https://www.linkedin.com/in/-sofiaalbu-/)
 
 ---
 
