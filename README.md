@@ -22,12 +22,16 @@
 
 ---
 
-## GitHub Stats:
+## GitHub Stats
 
-<!-- Replace with your own GitHub stats card if you want -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaAlCosta&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SofiaAlCosta&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaAlCosta&layout=compact&theme=dark" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofiaAlCosta&theme=dark" alt="GitHub Streak" />
 </p>
+
 
 ---
 
