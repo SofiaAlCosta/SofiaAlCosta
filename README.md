@@ -3,7 +3,7 @@
 ---
 
 - 🌱 I’m currently learning **Web Development, Python, C, Java, MySQL**
-- 💼 Working on projects at **VisabeiraProjects**
+- 💼 Working on projects at ****
 - 📧 How to reach me: *sofiacosta2004@hotmail.com*
 - 💼 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/-sofiaalbu-/)
 
