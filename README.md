@@ -1,5 +1,3 @@
-![image1](image1)
-
 # Hi 👋, I'm Sofia Al Costa and I'm a Computer Science and Engineering Student
 
 ---
