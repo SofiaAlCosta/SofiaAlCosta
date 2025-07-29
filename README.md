@@ -24,10 +24,9 @@
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofiaAlCosta&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofiaAlCosta&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaAlCosta&layout=compact&theme=dark" alt="Top Languages" />
+<p align="center">
+  <img style="height:200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SofiaAlCosta&theme=dark" alt="GitHub Streak" />
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaAlCosta&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 
