@@ -2,8 +2,8 @@
 
 ---
 
-- 🌱 I’m currently learning **Web Development, Python, C, Java, MySQL**
-- 💼 Working on projects at **MindSpace**
+- 🌱 I’m currently learning **Full-Stack Development**
+- 💼 Working on projects at **Internship-Visabeira**
 - 📧 How to reach me: *sofiacosta2004@hotmail.com*
 - 💼 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/-sofiaalbu-/)
 
