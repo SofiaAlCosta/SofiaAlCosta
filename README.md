@@ -26,7 +26,7 @@
 
 <p align="center">
   <img style="height:200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SofiaAlCosta&theme=dark" alt="GitHub Streak" />
-  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaAlCosta&layout=compact&theme=dark" alt="Top Languages" />
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaAlCosta&layout=compact&theme=dark&cache_seconds=60" alt="Top Languages" />
 </p>
 
 
