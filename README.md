@@ -3,7 +3,7 @@
 ---
 
 - 🌱 I’m currently learning **Full-Stack Development**
-- 💼 Working on projects at **Internship-Visabeira**
+- 💼 Working on projects at **University Beira Interior**
 - 📧 How to reach me: *sofiacosta2004@hotmail.com*
 - 💼 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/-sofiaalbu-/)
 
